@@ -14,7 +14,7 @@ permalink: /
 
 Namaskar, I'm currently a first year PhD. student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working with [Prof. Biswa](https://www.cse.iitb.ac.in/~biswa/) Panda on Computer Architecture and Hardware Security.
 
-I graduated with Btech in Electronics and Communication from MAIT, Delhi in June 2021. After that I worked as a RTL design engineer at [Incore Semicounductors](https://incoresemi.com/) for about one and a half year, some quick mentions of the area I worked on are RISCV based core, hypervisor, TLBs, Pagetable walk etc.
+I graduated with Btech in Electronics and Communication from MAIT, Delhi in June 2021. After that I worked as a RTL design engineer at [Incore Semicounductors](https://incoresemi.com/) for about one and a half year, some quick mentions of the area I worked on while working there are RISCV based core, hypervisor, TLBs, Pagetable walk etc.
 
 If I am not working on my computer, you can find me playing football. Most of my past work is open-source, thanks to my organization and collaborators. I love collaborating on open-source projects. Reach out to me!
 
@@ -32,6 +32,7 @@ If I am not working on my computer, you can find me playing football. Most of my
 ### Courses
 
 The courses that I have taken in IIT Bombay are listed below in reverse chronological order.
+#### (*) indicates it's an ongoing course
 
 - **CS 230\*** : Digital Logic Design and Computer Architecture, Spring 2023
 - **CS 681\*** : Performance Analysis of Computer Systems and Networks, Spring 2023
