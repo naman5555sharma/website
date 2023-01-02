@@ -12,20 +12,21 @@ permalink: /
 #     text: "More text here."
 ---
 
-Hello, I'm a first-year PhD student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I'm a member of SynerG (Systems & Networking Group) and have a broad interest in networks. Currently, I'm working on improving the performance of the 5G network by changing the way packets are handled in a system.
+# About Me
+Namaskar, I'm currently a first year PhD. student in IIT Bombay's [Computer Science and Engineering Department](https://www.cse.iitb.ac.in/). I am working with [Prof. Biswa](https://www.cse.iitb.ac.in/~biswa/) Panda on Computer Architecture and Hardware Security.
 
-I received my B. Tech. in Computer Science and Engineering from the [Central Institute of Technology Kokrajhar](https://cit.ac.in/) in 2022 and was a member of the human-computer interaction group. Before that, I studied at [Cotton College](https://cottonuniversity.ac.in/) in Guwahati.
+I graduated with Btech in Electronics and Communication from MAIT, Delhi in June 2021. After that I worked as a RTL design engineer at [Incore Semicounductors](https://incoresemi.com/) for about one and a half year, some quick mentions of the area I worked on are RISCV based core, hypervisor, TLBs, Pagetable walk etc.
 
-If I am not working on my computer, I might be watching movies, or listening to music. I am trying to pick up new hobbies and learn new things. Please feel free to reach out to me if you want to talk about anything.
+If I am not working on my computer, you can find me playing football. Most of my past work is open-source, thanks to my organization and collaborators. I love collaborating on open-source projects. Reach out to me!
 
 ### Education
 
-- **Ph.D. in Computer Science and Engineering**<br>_2022 - Present_ &#124; _CPI: 8.67\*_<br>[Indian Institute of Technology Bombay](https://www.iitb.ac.in/)
-- **B.Tech in Computer Science and Engineering**<br>_2017 - 2022_ &#124; _CGPA: 9.57_<br>[Central Institute of Technology Kokrajhar](https://cit.ac.in/)
-- **HS in Science**<br>_2015 - 2017_ &#124; _Percentage: 75.20%_<br>[Cotton College Guwahati](https://cottonuniversity.ac.in/)
+- **Ph.D. in Computer Science and Engineering**<br>_2023 - Present_ &#124; _CPI: n/a\*_<br>[Indian Institute of Technology Bombay](https://www.iitb.ac.in/)
+- **B.Tech in Electronics and Communication**<br>_2017 - 2022_ &#124; _CGPA: 8.69_<br>[Maharaja Agarasen Institute of Technology](https://mait.ac.in/)
+- **HS in Science**<br>_2015 - 2017_ &#124; _Percentage: 91.4%_<br>[Kendriya Vidyalaya Sector VIII RK Puram](https://rkpuramsec8.kvs.ac.in/)
 
-To download my résumé click <a href="./assets/pdf/Debojeet_s_Resume.pdf" title="Download Resume" download="debojeetDasResume"><span>here </span><i class="fas fa-download" aria-hidden="true"></i></a><br>
-{: .notice--primary}
+<!-- To download my résumé click <a href="./assets/pdf/Debojeet_s_Resume.pdf" title="Download Resume" download="debojeetDasResume"><span>here </span><i class="fas fa-download" aria-hidden="true"></i></a><br>
+{: .notice--primary} -->
 
 ---
 
@@ -33,13 +34,11 @@ To download my résumé click <a href="./assets/pdf/Debojeet_s_Resume.pdf" title
 
 The courses that I have taken in IIT Bombay are listed below in reverse chronological order.
 
-- **CS 695\*** : Topics in Virtualization and Cloud Computing, Spring 2023
+- **CS 230\*** : Digital Logic Design and Computer Architecture, Spring 2023
 - **CS 681\*** : Performance Analysis of Computer Systems and Networks, Spring 2023
-- **CS 773** : Computer Architecture for Performance and Security, Autumn 2022
-- **CS 744** : Design and Engineering of Computing Systems, Autumn 2022
-- **CS 601** : Algorithms and Complexity, Autumn 2022
+- **CS 745\*** : Principles of Data and System Security, Spring 2022
 
-### Teaching Assistantship
+<!-- ### Teaching Assistantship
 
 I have been a teaching assistant for the following courses in IIT Bombay.
 
@@ -47,7 +46,7 @@ I have been a teaching assistant for the following courses in IIT Bombay.
 - **CS 347/333** : Operating Systems & Lab (OS), Autumn 2022
 
 To know more about my courses and teaching assistantship click [here.](./extras/courses/)
-{: .notice}
+{: .notice} -->
 
 <!-- <div  class="notice notice--success">
     <strong>Recent Updates</strong>
