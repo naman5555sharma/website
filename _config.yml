@@ -58,8 +58,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name    : "Shubham Roy"
-  avatar  : "https://twitter.com/sys_roy/photo"
+  name    : "./shubham_roy"
+  avatar  : "/assets/images/photo.jpg"
   bio     : "Computer Architecture PhD student at IIT Bombay."
   location: "Trust Lab, IIT Bombay"
   email   : "22d0378@cse.iitb.ac.in"
