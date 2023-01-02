@@ -32,7 +32,7 @@ If I am not working on my computer, you can find me playing football. Most of my
 ### Courses
 
 The courses that I have taken in IIT Bombay are listed below in reverse chronological order.
-#### (*) indicates it's an ongoing course
+**(*)indicates it's an ongoing course**
 
 - **CS 230\*** : Digital Logic Design and Computer Architecture, Spring 2023
 - **CS 681\*** : Performance Analysis of Computer Systems and Networks, Spring 2023
