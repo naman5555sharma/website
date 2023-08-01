@@ -42,6 +42,8 @@ The courses that I have taken in IIT Bombay are listed below in reverse chronolo
 - **CS 683\*** : Advance Computer Architecture, Autumn 2023
 - **CS 631\*** : Implementation Techniques for Relational Database System, Autumn 2023
 - **CS 744\*** : Design and Engineering of Computing Systems, Autumn 2023
+
+
 <!-- ### Teaching Assistantship
 
 I have been a teaching assistant for the following courses in IIT Bombay.
