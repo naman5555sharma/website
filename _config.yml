@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ./shubham_roy
-email: shubhamr.roy62@gmail.com
+title: ./naman_sharma
+email: naman5555sharma@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: sys_roy
-github_username: sroy729
+#twitter_username: sys_roy
+github_username: naman555sharma
 minimal_mistakes_skin: default
 search: true
 
@@ -58,33 +58,33 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name    : "Shubham Roy"
-  avatar  : "/assets/images/photo.jpg"
-  bio     : "Computer Architecture PhD student at IIT Bombay."
+  name    : "Naman Sharma"
+  avatar  : "/assets/images/naman.jpg"
+  bio     : "Computer Architecture MS(By Research) student at IIT Bombay."
   location: "Trust Lab, IIT Bombay"
-  email   : "22d0378@cse.iitb.ac.in"
+  email   : "namansharma@cse.iitb.ac.in"
   links:
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sys_roy"
+      url: "Twitter"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sroy729"
+      url: "https://github.com/naman5555sharma"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sys_roy"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/sys_roy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sroy729"
+      url: "https://github.com/naman5555sharma"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
