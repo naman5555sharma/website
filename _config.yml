@@ -66,16 +66,16 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "Twitter"
+      url: "https://naman5555sharma.github.io/website/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "Twitter"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/naman5555sharma"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/___namansharma/"
 
 footer:
   links:
