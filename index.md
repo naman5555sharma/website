@@ -22,7 +22,7 @@ If I am not working on my computer, you can find me playing cricket. Reach out t
 
 - **MS(By Research) in Computer Science and Engineering**<br>_2023 - Present_ &#124; \*_<br>[Indian Institute of Technology Bombay](https://www.iitb.ac.in/)
 - **B.Tech in Electronics and Communication**<br>_2018 - 2022_ &#124; _CGPA: 8.15_<br>[Engineering College](https://ecajmer.ac.in/)
-- **HS in Science**<br>_2015 - 2017_ &#124; _Percentage: 73.8%_<br>[Kendriya Vidyalaya Sector VIII RK Puram](https://www.mahaveerpublicschooljodhpur.com/)
+- **HS in Science**<br>_2015 - 2017_ &#124; _Percentage: 73.8%_<br>[Mahaveer Public School, Jodhpur](https://www.mahaveerpublicschooljodhpur.com/)
 
 <!-- To download my résumé click <a href="./assets/pdf/Debojeet_s_Resume.pdf" title="Download Resume" download="debojeetDasResume"><span>here </span><i class="fas fa-download" aria-hidden="true"></i></a><br>
 {: .notice--primary} -->
